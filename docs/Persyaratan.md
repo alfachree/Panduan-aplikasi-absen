@@ -19,9 +19,5 @@ Untuk menjalankan aplikasi ini, pengguna perlu mengisntall beberapa paket aplika
 2. PHP: Versi 8.0 atau lebih baru
 3. Database: MySQL/MariaDB versi 5.7 atau lebih baru.
 
-Untuk mempermudah Penginstallan aplikasi, disarankan menggunakan software [laragon], [XAMPP], [Uwamp] dsb.
 
-[Laragon]:https://laragon.org/download/
-[XAMPP]:https://www.apachefriends.org/download.html
-[Uwamp]:https://www.uwamp.com/en/
 
