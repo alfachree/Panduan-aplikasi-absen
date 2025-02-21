@@ -68,6 +68,10 @@ markdown_extensions:
 # Footer
 copyright: Made with ❤️ by KELOMPOK 1 | &copy; 2025
 
+
+extra:
+  generator: false
+
 nav:
   - Panduan Aplikasi APPASI:
       - Selamat Datang: index.md
@@ -84,3 +88,4 @@ extra:
       link: https://instagram.com/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/
+ 
